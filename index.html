@@ -56,7 +56,7 @@
                                     <h3>About</h3>
                                     <p>I am a first-year PhD student in Computer Science at North Carolina State University - from where I recently graduated with a bachelor's degree in Computer Science and a minor in Cognitive Science. 
                                     My research interests lie in the intersection of software engineering and human-computer interaction. 
-                                    I have been working with <a href = "http://chrisparnin.me/" target="_blank"><strong>Chris Parnin</strong></a> in the <a href = "http://chrisparnin.me/alt-code/" target="_blank"><strong>alt-code lab</strong></a> since my junior year of college. 
+                                    I have been working with <a href = "http://chrisparnin.me/" target="_blank"><strong>Dr. Chris Parnin</strong></a> in the <a href = "http://chrisparnin.me/alt-code/" target="_blank"><strong>alt-code lab</strong></a> since my junior year of college. 
                                     I aim to determine how technical interview practices can be improved to efficiently hire suitable candidates in industry.</p>
                                     <p>Outside of work, I like spending time at the gym, hanging out with friends and family, reading crime/mystery novels and listening to music. 
                                     I also serve as the Vice President of <a href = "https://stars.ncsu.edu/" target="_blank"><strong>STARS Computing Corps at NC State</strong></a> for the 2020-21 academic year.</p>
