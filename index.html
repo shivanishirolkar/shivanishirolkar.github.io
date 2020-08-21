@@ -31,7 +31,7 @@
                         <li><a href="#two">Experience</a></li>
                         <li><a href="#three">Publications</a></li>
                         <li><a href="#four">News</a></li>
-                        <li><a href="#five">Contact Me</a></li>
+                        <!--<li><a href="#five">Contact Me</a></li>-->
 					</ul>
 				</nav>
 				<footer>
@@ -131,7 +131,7 @@
 							</section>
 
 						<!-- Five -->
-							<section id="five">
+							<!--<section id="five">
 								<div class="container">
 									<h3>Contact Me</h3>
 									<form method="post" action="#">
@@ -149,7 +149,7 @@
 										</div>
 									</form>
 								</div>
-							</section>
+							</section>-->
 
 						<!-- Five -->
 						<!--
