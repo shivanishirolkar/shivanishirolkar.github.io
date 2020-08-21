@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title><a href = "https://shivanishirolkar.github.io/">Shivani Shirolkar</a></title>
+		<title>Shivani Shirolkar</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -22,7 +22,7 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/ShivaniShirolkarPhoto.jpg" alt="" /></span>
-					<h1 id="logo"><a href = "https://shivanishirolkar.github.io/">Shivani Shirolkar</a></h1>
+					<h1 id="logo">Shivani Shirolkar</h1>
 					<p>PhD student @ NC State</p>
 				</header>
 				<nav id="nav">
