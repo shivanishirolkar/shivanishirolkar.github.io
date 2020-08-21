@@ -55,10 +55,10 @@
 								<div class="container">
                                     <h3>About</h3>
                                     <p>I am a first-year PhD student in Computer Science at North Carolina State University - from where I recently graduated with a bachelor's degree in Computer Science and a minor in Cognitive Science. 
-                                    My research interests lie in the intersection of human-computer interaction software engineering. 
+                                    My research interests lie in the intersection of software engineering and human-computer interaction. 
                                     I have been working with <a href = "http://chrisparnin.me/" target="_blank"><strong>Chris Parnin</strong></a> in the <a href = "http://chrisparnin.me/alt-code/" target="_blank"><strong>alt-code lab</strong></a> since my junior year of college. 
                                     I aim to determine how technical interview practices can be improved to efficiently hire suitable candidates in industry.</p>
-                                    <p>Outside of work, I like to spend time at the gym, hanging out with friends and family, reading crime/mystery novels and listening to music. 
+                                    <p>Outside of work, I like spending time at the gym, hanging out with friends and family, reading crime/mystery novels and listening to music. 
                                     I also serve as the Vice President of <a href = "https://stars.ncsu.edu/" target="_blank"><strong>STARS Computing Corps at NC State</strong></a> for the 2020-21 academic year.</p>
 								</div>
 							</section>
@@ -71,8 +71,8 @@
                                     I worked on conducting experiments on participants and organizing and analyzing the data obtained.</p>
                             
                                     <p>Since then, I have worked on two research projects, of which both have shown significant drawbacks in the way candidates  
-                                    applying for tech roles are evaluated during their interview processes - right from the initial phone screening 
-                                    to the final offer negotation. The goal is to understand the way computer scientists and programmers design solutions to problems and 
+                                    applying for tech roles are evaluated during their interview processes - right from the initial phone screenings 
+                                    to the final stages of offer negotation. The goal is to understand how computer scientists and programmers design solutions to problems and 
                                     to enable them to bring their best game to the interviewing arena.</p>
                             
                                     <p>I also have corporate experience in the form of internships. During the summer of my junior and senior years, I worked at <a href = "https://www.fidelity.com/" target="_blank"><strong>Fidelity Investments</strong></a> 
