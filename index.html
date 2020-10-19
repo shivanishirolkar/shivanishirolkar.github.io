@@ -75,7 +75,7 @@
                                     to the final stages of offer negotation. The goal is to understand how computer scientists and programmers design solutions to problems and 
                                     to enable them to bring their best game to the interviewing arena.</p>
                             
-                                    <p>I also have corporate experience in the form of internships. During the summer of my junior and senior years, I worked at <a href = "https://www.fidelity.com/" target="_blank"><strong>Fidelity Investments</strong></a> 
+                                    <p>I also have corporate experience in the form of internships. During the summers of my junior and senior years, I worked at <a href = "https://www.fidelity.com/" target="_blank"><strong>Fidelity Investments</strong></a> 
                                     as a software engineer intern, where I contributed to projects involving performance engineering and cloud computing. Here is my <a href = "files/ShivaniShirolkarResume.pdf" target="_blank"><strong>resume</strong></a>.</p>
 									<!-- <ul class="feature-icons">
 										<li class="icon solid fa-code">Write all the code</li>
